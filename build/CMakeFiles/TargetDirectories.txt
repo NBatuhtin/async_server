@@ -1,4 +1,0 @@
-C:/Users/kypuj/OneDrive/Рабочий стол/NIC/async_server/build/CMakeFiles/Server.dir
-C:/Users/kypuj/OneDrive/Рабочий стол/NIC/async_server/build/CMakeFiles/Client.dir
-C:/Users/kypuj/OneDrive/Рабочий стол/NIC/async_server/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/kypuj/OneDrive/Рабочий стол/NIC/async_server/build/CMakeFiles/ZERO_CHECK.dir
